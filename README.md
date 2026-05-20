@@ -1,4 +1,4 @@
-```
+
 # Fine-Tuning SmolLM-360M-Instruct for Medical Clinical Reasoning
 
 > Parameter-Efficient Fine-Tuning (PEFT) of a lightweight language model for transparent medical reasoning and low-cost healthcare AI deployment.
@@ -391,11 +391,3 @@ Based on the symptoms, hydration, rest, and monitoring are recommended. Seek med
 Contributions, suggestions, and improvements are welcome.
 
 Feel free to fork the repository and open pull requests.
-
----
-
-# 📄 License
-
-This project is licensed under the MIT License.
-
-```
